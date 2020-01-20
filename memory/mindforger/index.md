@@ -77,8 +77,8 @@ directoring using MindForger:
     * `git clone https://github.com/sekwiatkowski/awesome-ai-services && cd awesome-ai-services && mindforger .`
 * [Build your own X](https://github.com/danistefanovic/build-your-own-x)
     * `git clone https://github.com/danistefanovic/build-your-own-x && cd build-your-own-x && mindforger .`
-* [Front-end Handbook 2018](https://github.com/FrontendMasters/front-end-handbook-2018)
-    * `git clone https://github.com/FrontendMasters/front-end-handbook-2018 && cd front-end-handbook-2018 && minforger .`
+* [Front-end Handbook 2019](https://github.com/FrontendMasters/front-end-handbook-2019)
+    * `git clone https://github.com/FrontendMasters/front-end-handbook-2019 && cd front-end-handbook-2019 && minforger .`
 * [NYTimes Objective-C style guide](https://github.com/NYTimes/objective-c-style-guide)
     * `git clone https://github.com/NYTimes/objective-c-style-guide && cd objective-c-style-guide && mindforger .`
 * [LivingSocial API design](https://github.com/livingsocial/api-design)
